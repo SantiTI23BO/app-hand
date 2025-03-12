@@ -18,5 +18,5 @@ class HandAnalysisApp extends StatelessWidget {
     );
   }
 
-  // Holaaaa Aldo
+  // Holaaaa ALDO Y ALBERO OJEDAAAAAAAAAAAAAA
 }
