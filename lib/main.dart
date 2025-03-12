@@ -17,4 +17,6 @@ class HandAnalysisApp extends StatelessWidget {
       home: const Login(), // Aquí iniciamos con el Login
     );
   }
+
+  // Holaaaa Aldo
 }
